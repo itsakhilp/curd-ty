@@ -1,20 +1,6 @@
 {
   "users": [
     {
-      "blogname": "reAct",
-      "Content": "",
-      "place": "content",
-      "id": 1,
-      "undefined": "contenctD"
-    },
-    {
-      "blogname": "M E R N",
-      "Content": "",
-      "place": "SASSs",
-      "id": 2,
-      "undefined": "asas"
-    },
-    {
       "blogname": "JS",
       "Content": "",
       "id": 4
@@ -24,6 +10,18 @@
       "Content": "",
       "place": "devps",
       "id": 5
+    },
+    {
+      "blogname": "heybab",
+      "Content": "",
+      "place": "madd",
+      "id": 6
+    },
+    {
+      "blogname": "MACHA",
+      "Content": "",
+      "place": "KOTTU",
+      "id": 7
     }
   ]
 }
